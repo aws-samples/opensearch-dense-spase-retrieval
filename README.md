@@ -1,11 +1,14 @@
-## My Project
+## OpenSearch Dense Retrieval
+- Overview
+The project is an open-source initiative aimed at enhancing the capabilities of OpenSearch with advanced retrieval techniques. OpenSearch is an open-source search and analytics suite derived from Elasticsearch, designed for a wide range of search, logging, and analytics use cases.
 
-TODO: Fill this README out!
+- Key Features
+    - Neural Search Models: Implements state-of-the-art neural network models for dense retrieval, which convert text into dense vectors to capture semantic meanings.
+    - Efficient Vector Search: Optimizes vector search for high performance, enabling quick retrieval of relevant documents based on dense embeddings.
 
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+- Benefits
+    - Enhanced Relevance: By integrating dense retrieval, the system can understand and match user queries more accurately, providing more relevant results.
+    - Flexibility and Scalability: Suitable for various applications, from small-scale projects to large enterprise solutions, with the ability to scale as needed.
 
 ## Security
 
